@@ -39,3 +39,8 @@ User Story #16: Inside the form element, I am presented with a button with ```id
 ## Additional features:
 
 1. Upon clicking submit button, it provides an alert box with the response, "Your response has been recorded".
+
+
+# Link to the Project
+
+[Survey form project](https://codepen.io/abhilipsasahoo03/pen/gOXMPbK)
